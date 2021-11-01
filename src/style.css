@@ -1,0 +1,17 @@
+.title {
+  font-size: large;
+}
+.red {
+  color: red;
+}
+.img {
+  width: 20%;
+}
+.img2 {
+  height: 200px;
+}
+.vid {
+  width: 320;
+  height: 240;
+  background-color: gray;
+}
